@@ -15,7 +15,7 @@ export default defineConfig({
   },
   dts: true,
   minify: true,
-  external: ["react"],
+  external: ["react", "react-dom"],
   noExternal: ["@dub/embed-core"],
   clean: true,
   splitting: false,
