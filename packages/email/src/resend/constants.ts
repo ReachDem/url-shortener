@@ -1,6 +1,6 @@
 export const RESEND_AUDIENCES = {
-  "Reachdem users": "9542812b-51eb-48e3-87b2-e9fb152e3fb5",
-  "partners.dub.co": "6caf6898-941a-45b6-a59f-d0780c3004ac",
+  "app.rcdm.ink": "9542812b-51eb-48e3-87b2-e9fb152e3fb5",
+  "partners.rcdm.ink": "6caf6898-941a-45b6-a59f-d0780c3004ac",
 };
 
 export const VARIANT_TO_FROM_MAP = {
